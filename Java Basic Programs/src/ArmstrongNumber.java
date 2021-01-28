@@ -4,7 +4,7 @@ public class ArmstrongNumber {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		// Added One Comment
+		// Added One Comment For Testing
 
 		int number=153;
 		int temp=number;
